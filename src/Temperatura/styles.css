@@ -1,0 +1,6 @@
+.main {
+  text-align: center;
+}
+.main > section input {
+  margin: 0 0.5em;
+}
